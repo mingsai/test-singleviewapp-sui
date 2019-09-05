@@ -16,6 +16,7 @@
 		072FEEF32320C59100F0D90D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 072FEEF12320C59100F0D90D /* LaunchScreen.storyboard */; };
 		072FEEFE2320C59100F0D90D /* test_singleviewapp_suiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072FEEFD2320C59100F0D90D /* test_singleviewapp_suiTests.swift */; };
 		072FEF092320C59100F0D90D /* test_singleviewapp_suiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072FEF082320C59100F0D90D /* test_singleviewapp_suiUITests.swift */; };
+		072FEF172320C7AB00F0D90D /* MainContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072FEF162320C7AB00F0D90D /* MainContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		072FEF042320C59100F0D90D /* test-singleviewapp-suiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "test-singleviewapp-suiUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		072FEF082320C59100F0D90D /* test_singleviewapp_suiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_singleviewapp_suiUITests.swift; sourceTree = "<group>"; };
 		072FEF0A2320C59100F0D90D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		072FEF162320C7AB00F0D90D /* MainContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				072FEEE52320C58E00F0D90D /* SceneDelegate.swift */,
 				072FEEEA2320C58E00F0D90D /* ContentView.swift */,
 				072FEEEC2320C59100F0D90D /* Assets.xcassets */,
+				072FEF162320C7AB00F0D90D /* MainContentView.swift */,
 				072FEEF12320C59100F0D90D /* LaunchScreen.storyboard */,
 				072FEEF42320C59100F0D90D /* Info.plist */,
 				072FEEE72320C58E00F0D90D /* test_singleviewapp_sui.xcdatamodeld */,
@@ -274,6 +277,7 @@
 				072FEEE62320C58E00F0D90D /* SceneDelegate.swift in Sources */,
 				072FEEEB2320C58E00F0D90D /* ContentView.swift in Sources */,
 				072FEEE92320C58E00F0D90D /* test_singleviewapp_sui.xcdatamodeld in Sources */,
+				072FEF172320C7AB00F0D90D /* MainContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
